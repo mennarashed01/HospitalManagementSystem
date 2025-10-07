@@ -1,0 +1,14 @@
+D:\Programming\C#\C#_Projects\OOP\Hospital_project\HospitalManagementSystme\HospitalManagementSystme\bin\Debug\net8.0\HospitalManagementSystme.exe
+D:\Programming\C#\C#_Projects\OOP\Hospital_project\HospitalManagementSystme\HospitalManagementSystme\bin\Debug\net8.0\HospitalManagementSystme.deps.json
+D:\Programming\C#\C#_Projects\OOP\Hospital_project\HospitalManagementSystme\HospitalManagementSystme\bin\Debug\net8.0\HospitalManagementSystme.runtimeconfig.json
+D:\Programming\C#\C#_Projects\OOP\Hospital_project\HospitalManagementSystme\HospitalManagementSystme\bin\Debug\net8.0\HospitalManagementSystme.dll
+D:\Programming\C#\C#_Projects\OOP\Hospital_project\HospitalManagementSystme\HospitalManagementSystme\bin\Debug\net8.0\HospitalManagementSystme.pdb
+D:\Programming\C#\C#_Projects\OOP\Hospital_project\HospitalManagementSystme\HospitalManagementSystme\obj\Debug\net8.0\HospitalManagementSystme.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\C#_Projects\OOP\Hospital_project\HospitalManagementSystme\HospitalManagementSystme\obj\Debug\net8.0\HospitalManagementSystme.AssemblyInfoInputs.cache
+D:\Programming\C#\C#_Projects\OOP\Hospital_project\HospitalManagementSystme\HospitalManagementSystme\obj\Debug\net8.0\HospitalManagementSystme.AssemblyInfo.cs
+D:\Programming\C#\C#_Projects\OOP\Hospital_project\HospitalManagementSystme\HospitalManagementSystme\obj\Debug\net8.0\HospitalManagementSystme.csproj.CoreCompileInputs.cache
+D:\Programming\C#\C#_Projects\OOP\Hospital_project\HospitalManagementSystme\HospitalManagementSystme\obj\Debug\net8.0\HospitalManagementSystme.dll
+D:\Programming\C#\C#_Projects\OOP\Hospital_project\HospitalManagementSystme\HospitalManagementSystme\obj\Debug\net8.0\refint\HospitalManagementSystme.dll
+D:\Programming\C#\C#_Projects\OOP\Hospital_project\HospitalManagementSystme\HospitalManagementSystme\obj\Debug\net8.0\HospitalManagementSystme.pdb
+D:\Programming\C#\C#_Projects\OOP\Hospital_project\HospitalManagementSystme\HospitalManagementSystme\obj\Debug\net8.0\HospitalManagementSystme.genruntimeconfig.cache
+D:\Programming\C#\C#_Projects\OOP\Hospital_project\HospitalManagementSystme\HospitalManagementSystme\obj\Debug\net8.0\ref\HospitalManagementSystme.dll
