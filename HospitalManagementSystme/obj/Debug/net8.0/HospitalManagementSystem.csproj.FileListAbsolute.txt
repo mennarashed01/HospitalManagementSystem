@@ -26,3 +26,7 @@ D:\Programming\C#\C#_Projects\OOP\Hospital_project\HospitalManagementSystem\Hosp
 D:\Programming\C#\C#_Projects\OOP\Hospital_project\HospitalManagementSystem\HospitalManagementSystme\obj\Debug\net8.0\HospitalManagementSystem.pdb
 D:\Programming\C#\C#_Projects\OOP\Hospital_project\HospitalManagementSystem\HospitalManagementSystme\obj\Debug\net8.0\HospitalManagementSystem.genruntimeconfig.cache
 D:\Programming\C#\C#_Projects\OOP\Hospital_project\HospitalManagementSystem\HospitalManagementSystme\obj\Debug\net8.0\ref\HospitalManagementSystem.dll
+D:\Programming\C#\C#_Projects\OOP\Hospital_project\HospitalManagementSystem\HospitalManagementSystme\bin\Debug\net8.0\Data\Appointments.txt
+D:\Programming\C#\C#_Projects\OOP\Hospital_project\HospitalManagementSystem\HospitalManagementSystme\obj\Debug\net8.0\HospitalManagementSystem.sourcelink.json
+D:\Programming\C#\C#_Projects\OOP\Hospital_project\HospitalManagementSystem\HospitalManagementSystme\bin\Debug\net8.0\Data\doctors.txt
+D:\Programming\C#\C#_Projects\OOP\Hospital_project\HospitalManagementSystem\HospitalManagementSystme\bin\Debug\net8.0\Data\Patients.txt
